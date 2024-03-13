@@ -1,4 +1,4 @@
-name: Build C++ Project 
+name: Build C++ Project
 on:
   push:
     branches: [ main ]
